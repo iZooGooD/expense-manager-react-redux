@@ -5,7 +5,7 @@ function App() {
         <h1>Welcome to expense manager</h1>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
